@@ -31,7 +31,7 @@
     position: fixed;
     word-spacing: .4rem;
    
-    color: white;
+    color: blue;
   }
   .hello1{
     font-family: 'Lobster', cursive;
@@ -39,6 +39,6 @@
   bottom: 30%;
     position: fixed;
     word-spacing: 1rem;
-   color: white;
+   color: blue;
   }
   
